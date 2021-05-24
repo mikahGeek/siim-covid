@@ -1,2 +1,11 @@
 pandas==1.2.4
-numpy==1.20.3
+opencv_python_headless==4.5.2.52
+numpy==1.18.4
+pydicom==2.1.2
+matplotlib==3.3.0
+tqdm==4.60.0
+colorama==0.4.3
+seaborn==0.11.1
+albumentations==0.5.2
+Pillow==8.2.0
+wandb==0.10.30
